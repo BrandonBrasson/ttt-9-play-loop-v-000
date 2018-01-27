@@ -1,6 +1,6 @@
 require_relative '../lib/play'
 
-describe '#play' do
+puts describe '#play' do
   it 'calls turn nine times' do
     board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
